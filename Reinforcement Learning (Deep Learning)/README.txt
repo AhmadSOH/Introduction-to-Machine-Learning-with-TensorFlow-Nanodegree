@@ -1,4 +1,4 @@
-This part of the nanodegree have 5 Lessons:
+This part of the nanodegree contains 6 Lessons:
 
 1- Introduction to Neural Networks
 2- Implementing Gradient Desecnt
